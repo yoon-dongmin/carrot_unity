@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b7e4ef77-717c-921a-3dd0-386506ab1ca8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuntimeTestAssembly", "RuntimeTestAssembly.csproj", "{fb2f28b2-8633-c8a5-3ab2-4c3883bad991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexCollider", "NonConvexCollider.csproj", "{ad765f5c-8138-3972-187a-275889f78de2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexColliderRuntimeAPI", "NonConvexColliderRuntimeAPI.csproj", "{ca094de9-f705-35a9-3789-b40251e8aadd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexEditor", "NonConvexEditor.csproj", "{e8373542-c12d-8cda-3457-a6b5189982f0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b7e4ef77-717c-921a-3dd0-386506ab1ca8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b7e4ef77-717c-921a-3dd0-386506ab1ca8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb2f28b2-8633-c8a5-3ab2-4c3883bad991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb2f28b2-8633-c8a5-3ab2-4c3883bad991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad765f5c-8138-3972-187a-275889f78de2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad765f5c-8138-3972-187a-275889f78de2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ca094de9-f705-35a9-3789-b40251e8aadd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ca094de9-f705-35a9-3789-b40251e8aadd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e8373542-c12d-8cda-3457-a6b5189982f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e8373542-c12d-8cda-3457-a6b5189982f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
