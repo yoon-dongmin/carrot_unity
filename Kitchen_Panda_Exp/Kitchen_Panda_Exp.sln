@@ -1,31 +1,42 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b7e4ef77-717c-921a-3dd0-386506ab1ca8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{77EFE4B7-7C71-1A92-3DD0-386506AB1CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuntimeTestAssembly", "RuntimeTestAssembly.csproj", "{fb2f28b2-8633-c8a5-3ab2-4c3883bad991}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuntimeTestAssembly", "RuntimeTestAssembly.csproj", "{B2282FFB-3386-A5C8-3AB2-4C3883BAD991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexCollider", "NonConvexCollider.csproj", "{ad765f5c-8138-3972-187a-275889f78de2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexCollider", "NonConvexCollider.csproj", "{5C5F76AD-3881-7239-187A-275889F78DE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexColliderRuntimeAPI", "NonConvexColliderRuntimeAPI.csproj", "{ca094de9-f705-35a9-3789-b40251e8aadd}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexColliderRuntimeAPI", "NonConvexColliderRuntimeAPI.csproj", "{E94D09CA-05F7-A935-3789-B40251E8AADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexEditor", "NonConvexEditor.csproj", "{e8373542-c12d-8cda-3457-a6b5189982f0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConvexEditor", "NonConvexEditor.csproj", "{423537E8-2DC1-DA8C-3457-A6B5189982F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{b7e4ef77-717c-921a-3dd0-386506ab1ca8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{b7e4ef77-717c-921a-3dd0-386506ab1ca8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{fb2f28b2-8633-c8a5-3ab2-4c3883bad991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{fb2f28b2-8633-c8a5-3ab2-4c3883bad991}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ad765f5c-8138-3972-187a-275889f78de2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ad765f5c-8138-3972-187a-275889f78de2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ca094de9-f705-35a9-3789-b40251e8aadd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ca094de9-f705-35a9-3789-b40251e8aadd}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{e8373542-c12d-8cda-3457-a6b5189982f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{e8373542-c12d-8cda-3457-a6b5189982f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EFE4B7-7C71-1A92-3DD0-386506AB1CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EFE4B7-7C71-1A92-3DD0-386506AB1CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EFE4B7-7C71-1A92-3DD0-386506AB1CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EFE4B7-7C71-1A92-3DD0-386506AB1CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2282FFB-3386-A5C8-3AB2-4C3883BAD991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2282FFB-3386-A5C8-3AB2-4C3883BAD991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2282FFB-3386-A5C8-3AB2-4C3883BAD991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2282FFB-3386-A5C8-3AB2-4C3883BAD991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5F76AD-3881-7239-187A-275889F78DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5F76AD-3881-7239-187A-275889F78DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5F76AD-3881-7239-187A-275889F78DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5F76AD-3881-7239-187A-275889F78DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94D09CA-05F7-A935-3789-B40251E8AADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D09CA-05F7-A935-3789-B40251E8AADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D09CA-05F7-A935-3789-B40251E8AADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D09CA-05F7-A935-3789-B40251E8AADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423537E8-2DC1-DA8C-3457-A6B5189982F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423537E8-2DC1-DA8C-3457-A6B5189982F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423537E8-2DC1-DA8C-3457-A6B5189982F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423537E8-2DC1-DA8C-3457-A6B5189982F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
